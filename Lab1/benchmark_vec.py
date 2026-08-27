@@ -48,3 +48,9 @@ for size in sizes:
 
     
 
+import platform
+
+print("Python:", platform.python_version())
+print("Machine:", platform.machine())
+print("Processor:", platform.processor())
+print("System:", platform.system())

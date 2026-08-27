@@ -1,0 +1,36 @@
+----------Size : 2000----------
+Vec Add  Time: 0.00107584  seconds 	 Numpy Add  Time: 0.00000637  seconds
+Vec Sub  Time: 0.00141751  seconds 	 Numpy Sub  Time: 0.00000545  seconds
+Vec Mul  Time: 0.00112049  seconds 	 Numpy Mul  Time: 0.00001390  seconds
+Vec Neg  Time: 0.00022571  seconds 	 Numpy Neg  Time: 0.00000385  seconds
+Vec Norm Time: 0.00020186  seconds 	 Numpy Norm Time: 0.00001791  seconds
+----------Size : 4000----------
+Vec Add  Time: 0.00239411  seconds 	 Numpy Add  Time: 0.00000542  seconds
+Vec Sub  Time: 0.00221306  seconds 	 Numpy Sub  Time: 0.00000706  seconds
+Vec Mul  Time: 0.00213787  seconds 	 Numpy Mul  Time: 0.00001332  seconds
+Vec Neg  Time: 0.00049941  seconds 	 Numpy Neg  Time: 0.00000460  seconds
+Vec Norm Time: 0.00040305  seconds 	 Numpy Norm Time: 0.00000897  seconds
+----------Size : 8000----------
+Vec Add  Time: 0.00473757  seconds 	 Numpy Add  Time: 0.00000994  seconds
+Vec Sub  Time: 0.00444414  seconds 	 Numpy Sub  Time: 0.00000880  seconds
+Vec Mul  Time: 0.00457355  seconds 	 Numpy Mul  Time: 0.00001052  seconds
+Vec Neg  Time: 0.00092874  seconds 	 Numpy Neg  Time: 0.00000542  seconds
+Vec Norm Time: 0.00129989  seconds 	 Numpy Norm Time: 0.00001346  seconds
+----------Size : 16000----------
+Vec Add  Time: 0.00902742  seconds 	 Numpy Add  Time: 0.00001255  seconds
+Vec Sub  Time: 0.00870633  seconds 	 Numpy Sub  Time: 0.00001656  seconds
+Vec Mul  Time: 0.00817712  seconds 	 Numpy Mul  Time: 0.00001287  seconds
+Vec Neg  Time: 0.00268772  seconds 	 Numpy Neg  Time: 0.00001106  seconds
+Vec Norm Time: 0.00190357  seconds 	 Numpy Norm Time: 0.00027570  seconds
+----------Size : 32000----------
+Vec Add  Time: 0.01828610  seconds 	 Numpy Add  Time: 0.00001829  seconds
+Vec Sub  Time: 0.02054332  seconds 	 Numpy Sub  Time: 0.00003617  seconds
+Vec Mul  Time: 0.02099694  seconds 	 Numpy Mul  Time: 0.00001886  seconds
+Vec Neg  Time: 0.00394326  seconds 	 Numpy Neg  Time: 0.00001692  seconds
+Vec Norm Time: 0.00374292  seconds 	 Numpy Norm Time: 0.00038373  seconds
+----------Size : 64000----------
+Vec Add  Time: 0.03692941  seconds 	 Numpy Add  Time: 0.00005195  seconds
+Vec Sub  Time: 0.03801830  seconds 	 Numpy Sub  Time: 0.00006124  seconds
+Vec Mul  Time: 0.03511476  seconds 	 Numpy Mul  Time: 0.00004660  seconds
+Vec Neg  Time: 0.00987545  seconds 	 Numpy Neg  Time: 0.00004134  seconds
+Vec Norm Time: 0.00650673  seconds 	 Numpy Norm Time: 0.00029304  seconds

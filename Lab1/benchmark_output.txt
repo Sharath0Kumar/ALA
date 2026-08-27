@@ -1,0 +1,55 @@
+----------Size : 2000----------
+Size: 2000, Addition Time: 0.00151309 seconds
+Size: 2000, Subtraction Time: 0.00115325 seconds
+Size: 2000, Multiplication Time: 0.00126472 seconds
+Size: 2000, In-place Multiplication Time: 0.00097565 seconds
+Size: 2000, In-place Addition Time: 0.00115367 seconds
+Size: 2000, Negation Time: 0.00022436 seconds
+Size: 2000, Norm Time: 0.00023164 seconds
+----------Size : 4000----------
+Size: 4000, Addition Time: 0.00245859 seconds
+Size: 4000, Subtraction Time: 0.00207415 seconds
+Size: 4000, Multiplication Time: 0.00195722 seconds
+Size: 4000, In-place Multiplication Time: 0.00184147 seconds
+Size: 4000, In-place Addition Time: 0.00198707 seconds
+Size: 4000, Negation Time: 0.00046974 seconds
+Size: 4000, Norm Time: 0.00038843 seconds
+----------Size : 8000----------
+Size: 8000, Addition Time: 0.00431670 seconds
+Size: 8000, Subtraction Time: 0.00475009 seconds
+Size: 8000, Multiplication Time: 0.00422228 seconds
+Size: 8000, In-place Multiplication Time: 0.00410592 seconds
+Size: 8000, In-place Addition Time: 0.00405608 seconds
+Size: 8000, Negation Time: 0.00099320 seconds
+Size: 8000, Norm Time: 0.00073026 seconds
+----------Size : 16000----------
+Size: 16000, Addition Time: 0.00903882 seconds
+Size: 16000, Subtraction Time: 0.00879823 seconds
+Size: 16000, Multiplication Time: 0.00925667 seconds
+Size: 16000, In-place Multiplication Time: 0.00822633 seconds
+Size: 16000, In-place Addition Time: 0.00798399 seconds
+Size: 16000, Negation Time: 0.00213820 seconds
+Size: 16000, Norm Time: 0.00161320 seconds
+----------Size : 32000----------
+Size: 32000, Addition Time: 0.02120104 seconds
+Size: 32000, Subtraction Time: 0.01940466 seconds
+Size: 32000, Multiplication Time: 0.01803268 seconds
+Size: 32000, In-place Multiplication Time: 0.01578495 seconds
+Size: 32000, In-place Addition Time: 0.01599760 seconds
+Size: 32000, Negation Time: 0.00392693 seconds
+Size: 32000, Norm Time: 0.00364243 seconds
+----------Size : 64000----------
+Size: 64000, Addition Time: 0.03672742 seconds
+Size: 64000, Subtraction Time: 0.03715338 seconds
+Size: 64000, Multiplication Time: 0.03991565 seconds
+Size: 64000, In-place Multiplication Time: 0.03315227 seconds
+Size: 64000, In-place Addition Time: 0.03433786 seconds
+Size: 64000, Negation Time: 0.00918822 seconds
+Size: 64000, Norm Time: 0.00675360 seconds
+
+
+
+Python: 3.14.0
+Machine: AMD64
+Processor: Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+System: Windows

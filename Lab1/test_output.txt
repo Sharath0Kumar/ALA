@@ -1,0 +1,13 @@
+Vec.zeros() passed
+Vec.__add__() passed
+Vec.__sub__() passed
+Vec.__rmul__() passed
+Vec.__imul__() passed
+Vec.__neg__() passed
+Vec.__iadd__() passed
+ones() test passed
+len() test passed
+norm test passed
+TypeError test passed
+
+
