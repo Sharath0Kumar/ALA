@@ -1,0 +1,1 @@
+    Mask[t_z, t_x] = 0  = forced to -inf before softmax
